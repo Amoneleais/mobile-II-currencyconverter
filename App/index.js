@@ -1,5 +1,4 @@
 import React from "react";
+import Navigation from "./config/Navigation";
 
-import Options from "./screens/Options";
-
-export default () => <Options />;
+export default () => <Navigation />;
